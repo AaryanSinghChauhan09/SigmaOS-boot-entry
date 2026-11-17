@@ -3,7 +3,7 @@ name = "SigmaOS-boot-entry"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "boot-entry component"
+description = "boot entry component"
 upstream = []
 
 [contract]
